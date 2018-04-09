@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.oldenweb.Archery"
+        minSdkVersion 14
+        targetSdkVersion 23
+        versionCode 9
+        versionName "1.8"
+    }
+
+    dexOptions {
+        //javaMaxHeapSize "2048M"
+        preDexLibraries = false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services-ads:8.3.0'
+    compile project(':baseGameUtils')
+}

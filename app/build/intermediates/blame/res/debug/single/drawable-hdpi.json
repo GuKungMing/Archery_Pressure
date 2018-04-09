@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow10.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow10.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\score1.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\score1.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow4.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow4.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\score2.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\score2.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud0.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\cloud0.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow16.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow16.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow0.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow0.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c958cc18cfbef759bfe678fbe976e58a10fb2ff5\\output\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud1.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\cloud1.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow12.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow12.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow20.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow20.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_disabled.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\arrow_disabled.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow18.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow18.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c958cc18cfbef759bfe678fbe976e58a10fb2ff5\\output\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow15.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow15.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow5.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow5.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_normal.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\arrow_normal.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow8.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow8.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\score4.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\score4.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow2.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow2.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow13.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow13.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud2.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\cloud2.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow7.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow7.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow21.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow21.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\board.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\board.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\score5.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\score5.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow19.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow19.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow9.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow3.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow3.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c958cc18cfbef759bfe678fbe976e58a10fb2ff5\\output\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow6.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow6.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\score3.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\score3.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c958cc18cfbef759bfe678fbe976e58a10fb2ff5\\output\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow17.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow17.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow14.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow14.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow1.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow1.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow22.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow22.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bow11.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\bow11.png"
+    },
+    {
+        "merged": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ground.png",
+        "source": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\drawable-hdpi\\ground.png"
+    }
+]

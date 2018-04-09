@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Code\eclipse\AndroidStudio\codecanyon-10777432-archery-with-admob-and-leaderboard\Archery\baseGameUtils\src\main\assets"/><source path="D:\Code\eclipse\AndroidStudio\codecanyon-10777432-archery-with-admob-and-leaderboard\Archery\baseGameUtils\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\Code\eclipse\AndroidStudio\codecanyon-10777432-archery-with-admob-and-leaderboard\Archery\baseGameUtils\src\release\assets"/></dataSet></merger>

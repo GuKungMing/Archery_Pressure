@@ -1,0 +1,56 @@
+# support-v4
+-dontwarn android.support.v4.**
+-keep class android.support.v4.app.** { *; }
+-keep interface android.support.v4.app.** { *; }
+
+# support-v7
+-dontwarn android.support.v7.**
+-keep class android.support.v7.internal.** { *; }
+-keep interface android.support.v7.internal.** { *; }
+-keep class android.support.v7.** { *; }
+
+# webview
+-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+   public *;
+}
+
+# Google Play Services
+-keep class * extends java.util.ListResourceBundle {
+    protected java.lang.Object[][] getContents();
+}
+-keep public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+    public static final *** NULL;
+}
+-keepnames @com.google.android.gms.common.annotation.KeepName class *
+-keepclassmembernames class * {
+    @com.google.android.gms.common.annotation.KeepName *;
+}
+-keepnames class * implements android.os.Parcelable {
+    public static final ** CREATOR;
+}
+-dontwarn org.apache.http.**
+-dontwarn android.security.NetworkSecurityPolicy
+
+
+
+# Other
+-keep class android.content.pm.PackageInstaller
+-keep class android.content.pm.PackageInstaller$SessionInfo
+-keep class android.content.pm.PackageManager
+-keep class android.webkit.WebSettings
+-keep class android.widget.FrameLayout
+-keep class android.app.Notification$Builder
+-keep class android.os.Message
+-keep class android.os.PowerManager
+-dontwarn android.content.pm.PackageInstaller
+-dontwarn android.content.pm.PackageInstaller$SessionInfo
+-dontwarn android.content.pm.PackageManager
+-dontwarn android.webkit.WebSettings
+-dontwarn android.widget.FrameLayout
+-dontwarn android.app.Notification$Builder
+-dontwarn android.os.Message
+-dontwarn android.os.PowerManager
+-dontwarn com.google.android.gms.internal.zzac
+-dontwarn com.google.android.gms.internal.zzw
+-dontwarn com.google.android.gms.internal.zzw$zza
+-ignorewarnings

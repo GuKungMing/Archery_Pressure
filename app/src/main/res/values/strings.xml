@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Archery</string> <!-- App name -->
+
+    <item name="show_admob" type="bool">false</item> <!-- Show AdMob (true/false) -->
+
+    <item name="admob_test" type="bool">false</item> <!-- AdMob test mode (true/false) -->
+
+    <string name="adMob_banner">12345</string> <!-- AdMob Banner ID -->
+
+    <string name="adMob_interstitial">12345</string> <!-- AdMob Interstitial ID -->
+
+    <string name="app_id">12345</string> <!-- Google Play Games App ID -->
+
+    <string name="leaderboard">12345</string> <!-- Google Play Games Leaderboard ID -->
+
+    <string name="btn_leaderboard">LEADERBOARD</string>
+    <string name="btn_start">开始游戏</string>
+    <string name="btn_start2">再玩一次</string>
+    <string name="btn_exit">QUIT</string>
+    <string name="btn_home">HOME</string>
+    <string name="btn_sound">SOUND</string>
+    <string name="btn_mute">MUTE</string>
+    <string name="btn_sign_in">Google+ sign in</string>
+    <string name="btn_sign_out">Google+ sign out</string>
+    <string name="arrows">Arrows:</string>
+    <string name="score">Score:</string>
+    <string name="completed">COMPLETED</string>
+    <string name="high_score">Your High Score:</string>
+
+</resources>

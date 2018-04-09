@@ -1,0 +1,1092 @@
+[
+    {
+        "outputFile": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 52,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 52,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 60,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 89,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 79,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 89,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 89,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 79,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 80,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 79,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 79,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 87,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1031,
+                    "endColumn": 77,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 87,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 87,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 77,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 78,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 77,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 77,
+                    "endOffset": 1593
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2642,
+                    "endColumn": 66,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\version.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endColumn": 41,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 46,
+                    "endOffset": 2793
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2798,
+                    "endColumn": 52,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 40,
+                    "endOffset": 2887
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2892,
+                    "endColumn": 353,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 44,
+                    "endOffset": 3286
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3291,
+                    "endColumn": 42,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 91,
+                    "endOffset": 3421
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3426,
+                    "endColumn": 87,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 41,
+                    "endOffset": 3551
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3556,
+                    "endColumn": 41,
+                    "endOffset": 3593
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3598,
+                    "endColumn": 55,
+                    "endOffset": 3649
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3654,
+                    "endColumn": 41,
+                    "endOffset": 3691
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3696,
+                    "endColumn": 55,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endColumn": 57,
+                    "endOffset": 3805
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3810,
+                    "endColumn": 43,
+                    "endOffset": 3849
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3854,
+                    "endColumn": 42,
+                    "endOffset": 3892
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 42,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3897,
+                    "endColumn": 43,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 43,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 156,
+                    "endOffset": 4093
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4098,
+                    "endColumn": 144,
+                    "endOffset": 4238
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4243,
+                    "endColumn": 108,
+                    "endOffset": 4347
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4352,
+                    "endColumn": 231,
+                    "endOffset": 4579
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4584,
+                    "endColumn": 125,
+                    "endOffset": 4705
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4710,
+                    "endColumn": 180,
+                    "endOffset": 4886
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4891,
+                    "endColumn": 124,
+                    "endOffset": 5011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5016,
+                    "endColumn": 138,
+                    "endOffset": 5150
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5155,
+                    "endColumn": 123,
+                    "endOffset": 5274
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5279,
+                    "endColumn": 212,
+                    "endOffset": 5487
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5492,
+                    "endColumn": 214,
+                    "endOffset": 5702
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5707,
+                    "endColumn": 122,
+                    "endOffset": 5825
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5830,
+                    "endColumn": 164,
+                    "endOffset": 5990
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5995,
+                    "endColumn": 93,
+                    "endOffset": 6084
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6089,
+                    "endColumn": 136,
+                    "endOffset": 6221
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6226,
+                    "endColumn": 140,
+                    "endOffset": 6362
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6367,
+                    "endColumn": 89,
+                    "endOffset": 6452
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6457,
+                    "endColumn": 147,
+                    "endOffset": 6600
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6605,
+                    "endColumn": 102,
+                    "endOffset": 6703
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6708,
+                    "endColumn": 150,
+                    "endOffset": 6854
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6859,
+                    "endColumn": 91,
+                    "endOffset": 6946
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6951,
+                    "endColumn": 110,
+                    "endOffset": 7057
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7062,
+                    "endColumn": 218,
+                    "endOffset": 7276
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7281,
+                    "endColumn": 94,
+                    "endOffset": 7371
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7376,
+                    "endColumn": 104,
+                    "endOffset": 7476
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7481,
+                    "endColumn": 180,
+                    "endOffset": 7657
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7662,
+                    "endColumn": 124,
+                    "endOffset": 7782
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 7787,
+                    "endColumn": 174,
+                    "endOffset": 7957
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 7962,
+                    "endColumn": 104,
+                    "endOffset": 8062
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8067,
+                    "endColumn": 62,
+                    "endOffset": 8125
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\4a8d99c4ce866177aac7399e0074c98eb9b46044\\output\\res\\values\\common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8130,
+                    "endColumn": 61,
+                    "endOffset": 8187
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8192,
+                    "endColumn": 78,
+                    "endOffset": 8266
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\69326ef5ec7ea27dea89f7b6cccf1bc41c048afe\\output\\res\\values\\base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8271,
+                    "endColumn": 47,
+                    "endOffset": 8314
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8319,
+                    "endColumn": 88,
+                    "endOffset": 8403
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8408,
+                    "endColumn": 71,
+                    "endOffset": 8475
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8480,
+                    "endColumn": 43,
+                    "endOffset": 8519
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8524,
+                    "endColumn": 364,
+                    "endOffset": 8884
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8889,
+                    "endColumn": 75,
+                    "endOffset": 8960
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8965,
+                    "endColumn": 124,
+                    "endOffset": 9085
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9090,
+                    "endColumn": 67,
+                    "endOffset": 9153
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9158,
+                    "endColumn": 55,
+                    "endOffset": 9209
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9214,
+                    "endColumn": 45,
+                    "endOffset": 9255
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9260,
+                    "endColumn": 64,
+                    "endOffset": 9320
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9325,
+                    "endColumn": 40,
+                    "endOffset": 9361
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9366,
+                    "endColumn": 113,
+                    "endOffset": 9475
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9480,
+                    "endColumn": 95,
+                    "endOffset": 9571
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9576,
+                    "endColumn": 58,
+                    "endOffset": 9630
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9635,
+                    "endColumn": 56,
+                    "endOffset": 9687
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\baseGameUtils\\build\\intermediates\\bundles\\default\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9692,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 9911
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9916,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 10201
+                },
+                "from": {
+                    "file": "D:\\Code\\eclipse\\AndroidStudio\\codecanyon-10777432-archery-with-admob-and-leaderboard\\Archery\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10206,
+                    "endLine": 120,
+                    "endColumn": 10,
+                    "endOffset": 10625
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7f342c815bc83d9d5017503742242580f23182bc\\output\\res\\values\\admob_iap_style.xml"
+                }
+            }
+        ]
+    }
+]
